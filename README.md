@@ -1,2 +1,1 @@
-# duckOS
-my operating system
+Go to releases to find the os.
